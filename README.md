@@ -1,1 +1,2 @@
-# Chatbot-of-Video-Games-2023
+# rasa-videogame-chatbot
+A chatbot for some videogames talk
